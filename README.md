@@ -1,6 +1,6 @@
 ## 我的主页
 
-最美的下拉列表效果 [](https://candy081500.github.io/hello)来观看我的展示效果。
+最美的下拉列表效果 [下拉效果](https://candy081500.github.io/hello)来观看我的展示效果。
 我的工具项目[Jekyll](https://jekyllrb.com/) 
 
 ### 我的项目目录
