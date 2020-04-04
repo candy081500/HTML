@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## 我的主页
 
-You can use the [editor on GitHub](https://github.com/candy081500/HTML/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+最美的下拉列表效果 [下拉列表](https://candy081500.github.io/hello)来观看我的展示效果。
+我的工具项目[Jekyll](https://jekyllrb.com/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 我的项目目录
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -15,23 +14,21 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- 最美老朋友
+- 最好的我们
 
-1. Numbered
-2. List
+1. 我的详细
+2. 最好的事件
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `代码` 文本
 
-[Link](url) and ![Image](src)
+[链接](url) and ![图片](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多的详细信息请参考[ Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 我的主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/candy081500/HTML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ [repository settings](https://github.com/candy081500/HTML/settings). 主题需要在 `_config.yml` 这个文件下修改即可。
+### 支持和答疑
+有任何疑问可以练习我的WeChat：zss1119597068或者QQ：2445710568，感谢你的支持与配合！
